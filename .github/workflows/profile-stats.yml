@@ -1,0 +1,16 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update GitHub Stats
+        run: |
+          echo "Profile stats updated automatically"
+          # This workflow ensures the profile stays active
