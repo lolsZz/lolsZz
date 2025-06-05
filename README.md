@@ -1,4 +1,4 @@
-# Hi there, I'm Martin Magala! 👋
+# Hi there, I'm Martin! 👋
 
 <div align="center">
   
@@ -56,11 +56,6 @@ I'm a passionate **Full-Stack Developer** and **AI Enthusiast** based in the Wes
 - **MCP Servers** - Model Context Protocol servers for AI applications
 - **Email MCP** - Email automation using AI agents
 - **Context Optimization Tools** - AI-powered content optimization
-
-### 🌐 Web Development
-- **Ovensupport Website** - Professional service website with booking system
-- **Spontaneous Portraits** - Elegant photography portfolio website
-- **React Applications** - Modern web applications with TypeScript
 
 ### 🔧 Developer Tools
 - **System Optimization Scripts** - Automated system configuration and optimization
